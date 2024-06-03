@@ -20,7 +20,6 @@ while n > cont:
         print("Tipo inválido, tente novamente!")
         cont=cont-1
 
-totalanimais=s+c+r
 print("Total: %i cobais: "% (s+r+c))
 print("Total de coelhos: %i  "% c)
 print("Total de ratos: %i  "% r)
